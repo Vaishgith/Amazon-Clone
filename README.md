@@ -28,3 +28,5 @@ You can view a demo of the Amazon Clone by opening the `index.html` file in your
 
 ---
 
+> **Live Demo:** [Click Here](https://vaishnav0720.github.io/Amazon-Clone/)
+
