@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("Amazon-Logo.png");
+    background-image: url("Image/Amazon-Logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -138,7 +138,7 @@ span {
 }
 
 .hero-section {
-    background-image: url("hero-image.jpg");
+    background-image: url("Image/hero-image.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -242,7 +242,7 @@ ul a {
 }
 
 .logo {
-    background-image: url("Amazon-Logo.png");
+    background-image: url("Image/Amazon-Logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -269,4 +269,12 @@ padding-top: 25px;
 .copyright{
     padding-top:5px ;
     
+}
+
+.footer-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 100px;
+    font-size: 0.7rem;
+    text-align: center;
 }
